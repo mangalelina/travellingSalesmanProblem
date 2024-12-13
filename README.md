@@ -13,3 +13,7 @@ The solution makes use of two of the many heuristics used to approximate the opt
 ## Part 3: Backtracking
 
 This solves the Travelling Salesman Problem using backtracking. It determines if something is promising by adding the current cost to the MST of the remaining vertices and connecting edges. 
+
+
+Using any material from here is against the University of Michigan honor code.
+
